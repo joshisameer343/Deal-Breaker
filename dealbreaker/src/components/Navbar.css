@@ -1,0 +1,25 @@
+.nav
+{
+    background-color: aliceblue;
+    border: solid 1px;
+    height:10vh;
+    width:100%;
+}
+
+.posts
+{
+    background-color: palevioletred;
+    border: solid 1px;
+    width:40%;
+    align-items: center;
+    height:30vh;
+
+}
+
+.middle
+{
+    width:70%;
+    height:100vh;
+    border: solid 1px;
+    margin-left: 15%;
+}
